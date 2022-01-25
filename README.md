@@ -26,13 +26,13 @@ Automatically diagnose Pneumonia off of Lung X-Rays.
 - Numpy
 - Pillow
 
-# Guidelines -
+# Guidelines
 - Clone the repository
 - Make a virtual environment on your system by typing the following - 
 
         python3 -m venv /path/to/new/virtual/environment
         
-- In the virtual environment (venv) type - 
+- In the virtual environment type - 
     
         pip install -r /path/to/new/virtual/requirements.txt
 - Visit [Tensorflow's website](https://www.tensorflow.org/install) to view the installation guide on Tensorflow. 
