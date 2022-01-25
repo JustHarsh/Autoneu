@@ -23,7 +23,6 @@ Automatically diagnose Pneumonia off of Lung X-Rays.
 - Numpy
 - Tkinter
 - Sql Connector
-- Numpy
 - Pillow
 
 # Guidelines
