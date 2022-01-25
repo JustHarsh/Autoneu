@@ -48,6 +48,8 @@ Automatically diagnose Pneumonia off of Lung X-Rays.
 # Demo 
 https://user-images.githubusercontent.com/33577077/151024632-77980471-ca32-4d45-b4c1-e686173b89f1.mp4
 
+As you can see, in the last part of the video, the database was updated in the background. It had the file path and its correspoding label (0 for negative and 1 for positive). 
+
 
 # References/Bibliography
 - tensorflow.org for learning how to build the model
