@@ -30,6 +30,10 @@ Automatically diagnose Pneumonia off of Lung X-Rays.
 - Clone the repository
 - Make a virtual environment on your system by typing the following - 
         
+
+https://user-images.githubusercontent.com/33577077/151024632-77980471-ca32-4d45-b4c1-e686173b89f1.mp4
+
+
         python3 -m venv /path/to/new/virtual/environment
 - In the virtual environment (venv) type - 
     
