@@ -1,4 +1,3 @@
-# from pyexpat import model
 from tkinter import Label, Button, Tk, Entry
 from PIL import ImageTk, Image
 import tensorflow as tf
