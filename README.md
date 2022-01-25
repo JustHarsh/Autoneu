@@ -35,7 +35,7 @@ Automatically diagnose Pneumonia off of Lung X-Rays.
 - In the virtual environment (venv) type - 
     
         pip install -r /path/to/new/virtual/requirements.txt
-- Visit tensorflow.org to view the installation guide on Tensorflow. 
+- Visit [Tensorflow's website](https://www.tensorflow.org/install) to view the installation guide on Tensorflow. 
 - Run the gui.py by typing the below in your terminal/command prompt - 
 
         python gui.py
@@ -52,7 +52,7 @@ As you can see, in the last part of the video, the database was updated in the b
 
 
 # References/Bibliography
-- tensorflow.org for learning how to build the model
-- docs.python.org for making ReadMe. 
-- Stackoverflow.com for fixing bugs/errors
+- [Tensorflow](tensorflow.org) for learning how to build the model
+- [Python Docs](docs.python.org) for making ReadMe. 
+- [Stackoverflow](Stackoverflow.com) for fixing bugs/errors
 - Book - Computer Science with Python
