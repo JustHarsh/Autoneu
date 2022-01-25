@@ -1,5 +1,5 @@
 # Autoneu - Healthcare for the future
-**Automatic Diagnosis of Penumonia using a CNN**
+**Automatic Diagnosis of Penumonia using Convolutional Neural Networks**
 
 # Problem Definition
 Make an automated system that can do end-to-end diagnosis of Pneumonia in seconds. 
