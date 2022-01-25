@@ -29,12 +29,9 @@ Automatically diagnose Pneumonia off of Lung X-Rays.
 # Guidelines -
 - Clone the repository
 - Make a virtual environment on your system by typing the following - 
-        
-
-https://user-images.githubusercontent.com/33577077/151024632-77980471-ca32-4d45-b4c1-e686173b89f1.mp4
-
 
         python3 -m venv /path/to/new/virtual/environment
+        
 - In the virtual environment (venv) type - 
     
         pip install -r /path/to/new/virtual/requirements.txt
@@ -47,6 +44,10 @@ https://user-images.githubusercontent.com/33577077/151024632-77980471-ca32-4d45-
 - If this project were to be implemented in real life, strict measures will have to be taken to prevent anyone from tampering with patient data. Hence, a clinic/hospital will need at least one person guarding the server room at all times.
 
 - Training (workshop) will be required for both doctors and nurses
+
+# Demo 
+https://user-images.githubusercontent.com/33577077/151024632-77980471-ca32-4d45-b4c1-e686173b89f1.mp4
+
 
 # References/Bibliography
 - tensorflow.org for learning how to build the model
