@@ -1,6 +1,9 @@
 # Autoneu - Healthcare for the future
 **Automatic Diagnosis of Penumonia using Convolutional Neural Networks**
 
+# Demo 
+https://user-images.githubusercontent.com/33577077/151024632-77980471-ca32-4d45-b4c1-e686173b89f1.mp4
+
 # Problem Definition
 Make an automated system that can do end-to-end diagnosis of Pneumonia in seconds. 
 
@@ -42,10 +45,8 @@ Automatically diagnose Pneumonia off of Lung X-Rays.
 # Limitations
 - If this project were to be implemented in real life, strict measures will have to be taken to prevent anyone from tampering with patient data. Hence, a clinic/hospital will need at least one person guarding the server room at all times.
 
-- Training (workshop) will be required for both doctors and nurses
+- Training (workshop) will be required for both doctors and nurse
 
-# Demo 
-https://user-images.githubusercontent.com/33577077/151024632-77980471-ca32-4d45-b4c1-e686173b89f1.mp4
 
 As you can see, in the last part of the video, the database was updated in the background. It had the file path and its correspoding label (0 for negative and 1 for positive). 
 
