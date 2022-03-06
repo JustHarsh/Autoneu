@@ -20,7 +20,7 @@ Automatically diagnose Pneumonia off of Lung X-Rays.
 
 # Hardware Requirements
 - A PC
-- Minimum of 8 GB of RAM (Recommended)
+- Minimum of 8 GB of RAM (recommended)
 
 # Software Requirements
 - Tensorflow 2.x (latest version)
